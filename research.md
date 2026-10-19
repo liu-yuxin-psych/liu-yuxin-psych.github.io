@@ -24,15 +24,15 @@ layout: default
 
 ### contributed talks 
 
-1. Upcoming: **5th European Experimental Philosophy Conference** ([EuroX-Phi '25](https://x-phi.uea.ac.uk/EuroX-Phi2025-conference/)) \
+1. **5th European Experimental Philosophy Conference** ([EuroX-Phi '25](https://x-phi.uea.ac.uk/EuroX-Phi2025-conference/)) \
    Norwich, UK | 10-12 July 2025 \
    Symposium talk: *An alternative path to moral bioenhancement? AI moral enhancement gains approval but undermines moral responsibility* (as part of the symposium *Artificial Moral Advisors*)
 
-3. Upcoming: **Basel-Oxford-NUS BioXPhi Summit 2025** ([BioXPhi '25](https://ibmb.unibas.ch/en/public-outreach/projects-to-the-public/basel-oxford-nus-bioxphi-summit-2025/)) \
+3. **Basel-Oxford-NUS BioXPhi Summit 2025** ([BioXPhi '25](https://ibmb.unibas.ch/en/public-outreach/projects-to-the-public/basel-oxford-nus-bioxphi-summit-2025/)) \
    Basel, Switzerland | 25-27 June 2025 \
    Oral talk: *An alternative path to moral bioenhancement? AI moral enhancement gains approval but undermines moral responsibility*
 
-4. Upcoming: **Centre for Technomoral Futures PhD Showcase** ([CTMF](https://www.technomoralfutures.uk/phd-showcase-2025)) \
+4. **Centre for Technomoral Futures PhD Showcase** ([CTMF](https://www.technomoralfutures.uk/phd-showcase-2025)) \
    Edinburgh, UK | 02 June 2025 \
    Oral talk: *Navigating the complexities of artificial moral advisors in the prospect of AI moral enhancement: A moral psychology perspective*
 
@@ -90,7 +90,3 @@ layout: default
    Blog post ([link](https://www.technomoralfutures.uk/news-database/can-ai-be-moral-the-quest-for-moral-machines)):
    *Can AI be moral? The quest for moral machines and what it means for human morality*
    
-
-
-
-
