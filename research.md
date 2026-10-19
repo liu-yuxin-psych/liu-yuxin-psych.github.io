@@ -4,16 +4,20 @@ layout: default
 
 ### peer-reviewed publications
 
-1. **Liu, Y.** and Moore, A. (2025). Intuitive judgements towards artificial intelligence verdicts of moral transgressions. *British Journal of Social Psychology*, *64*(3), e12908. [https://doi.org/10.1111/bjso.12908](https://doi.org/10.1111/bjso.12908) \
+1. Ureyang, N., Mann, S. P., **Liu, Y.**, Hassirim, Z., Almonte, M., Chen, W., ... & Foong, P. S. (2026). Large Language Model Few-Shot Prompting with Dilemma Training Outperforms Human Surrogates in Predicting Patient Preferences. [under review]. Preprint available on [arXiv](https://arxiv.org/abs/2608.25771).
+
+2. †van Veenendaal, T., **†Liu, Y.**, Buyukbabani, M.B., Salloch, S., Jongsma, K., Braun, M., ... & Earp, B. D. Who–or what–should predict an incapacitated patient’s wishes? Public attitudes towards AI in substituted medical decision-making. [under review]. Preprint available on [researchgate](https://www.researchgate.net/publication/411053949).
+
+3. **Liu, Y.** and Moore, A. (2025). Intuitive judgements towards artificial intelligence verdicts of moral transgressions. *British Journal of Social Psychology*, *64*(3), e12908. [https://doi.org/10.1111/bjso.12908](https://doi.org/10.1111/bjso.12908) \
    [[pdf]](/papers/Liu_Moore_2025_AI_belief_alignment.pdf) [[osf]](https://osf.io/7qjt3/)
 
-2. McIntosh, R. D., Moore, A. B., **Liu, Y.**, and Della Sala, S. (2022). Skill and self-knowledge: Empirical refutation of the dual-burden account of the Dunning–Kruger effect. *Royal Society Open Science*, *9*(12), 191727. [http://doi.org/10.1098/rsos.191727](http://doi.org/10.1098/rsos.191727) 
+4. McIntosh, R. D., Moore, A. B., **Liu, Y.**, and Della Sala, S. (2022). Skill and self-knowledge: Empirical refutation of the dual-burden account of the Dunning–Kruger effect. *Royal Society Open Science*, *9*(12), 191727. [http://doi.org/10.1098/rsos.191727](http://doi.org/10.1098/rsos.191727) 
    [[pdf]](/papers/McIntosh_et_al_2022_DK_self_knowledge.pdf) 
 
-3. **Liu, Y.**, Moore, A. Webb, J., and Vallor, S. (2022). Artificial moral advisors: A new perspective from moral psychology. *AIES ’22: Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society*, 436-445. [https://doi.org/10.1145/3514094.3534139](https://doi.org/10.1145/3514094.3534139) \
+5. **Liu, Y.**, Moore, A. Webb, J., and Vallor, S. (2022). Artificial moral advisors: A new perspective from moral psychology. *AIES ’22: Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society*, 436-445. [https://doi.org/10.1145/3514094.3534139](https://doi.org/10.1145/3514094.3534139) \
    [[pdf]](/papers/Liu_et_al_2022_AMA_commentary.pdf) [[osf]](https://osf.io/u8kt4/)
 
-4. **Liu, Y.** and Moore, A. (2022). A Bayesian multilevel analysis of belief alignment effect predicting human moral intuitions of artificial intelligence judgements. *Proceedings of the Annual Meeting of the Cognitive Science Society*, *44*, 2116–2125. [https://escholarship.org/uc/item/3v79704h](https://escholarship.org/uc/item/3v79704h) \
+6. **Liu, Y.** and Moore, A. (2022). A Bayesian multilevel analysis of belief alignment effect predicting human moral intuitions of artificial intelligence judgements. *Proceedings of the Annual Meeting of the Cognitive Science Society*, *44*, 2116–2125. [https://escholarship.org/uc/item/3v79704h](https://escholarship.org/uc/item/3v79704h) \
    [[pdf]](/papers/Liu_Moore_2022_AI_belief_alignment.pdf) [[osf]](https://osf.io/7qjt3/)
 
 ---
@@ -86,14 +90,6 @@ layout: default
    Blog post ([link](https://www.technomoralfutures.uk/news-database/can-ai-be-moral-the-quest-for-moral-machines)):
    *Can AI be moral? The quest for moral machines and what it means for human morality*
    
----
-
-### working papers 
-• An empirical investigation of moral enhancement \
-• Socratic AI enhancement and other dialogic artificial moral advisors \
-• Belief updating in response to human vs. AI moral advisors \
-• AI commonsense morality \
-•
 
 
 
