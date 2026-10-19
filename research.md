@@ -6,7 +6,7 @@ layout: default
 
 1. Ureyang, N., Mann, S. P., **Liu, Y.**, Hassirim, Z., Almonte, M., Chen, W., ... & Foong, P. S. (2026). Large Language Model Few-Shot Prompting with Dilemma Training Outperforms Human Surrogates in Predicting Patient Preferences. [under review]. Preprint available on [arXiv](https://arxiv.org/abs/2608.25771).
 
-2. †van Veenendaal, T., **†Liu, Y.**, Buyukbabani, M.B., Salloch, S., Jongsma, K., Braun, M., ... & Earp, B. D. Who–or what–should predict an incapacitated patient’s wishes? Public attitudes towards AI in substituted medical decision-making. [under review]. Preprint available on [researchgate](https://www.researchgate.net/publication/411053949).
+2. †van Veenendaal, T., **†Liu, Y.**, Buyukbabani, M.B., Salloch, S., Jongsma, K., Braun, M., ... & Earp, B. D. (2026). Who–or what–should predict an incapacitated patient’s wishes? Public attitudes towards AI in substituted medical decision-making. [under review]. Preprint available on [researchgate](https://www.researchgate.net/publication/411053949).
 
 3. **Liu, Y.** and Moore, A. (2025). Intuitive judgements towards artificial intelligence verdicts of moral transgressions. *British Journal of Social Psychology*, *64*(3), e12908. [https://doi.org/10.1111/bjso.12908](https://doi.org/10.1111/bjso.12908) \
    [[pdf]](/papers/Liu_Moore_2025_AI_belief_alignment.pdf) [[osf]](https://osf.io/7qjt3/)
