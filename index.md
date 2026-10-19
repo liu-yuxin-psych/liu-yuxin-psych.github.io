@@ -6,15 +6,15 @@ Hi.
 
 <img class="profile-picture" src="web-profile.jpg">
 
-I am a postdoctoral research fellow at the [Centre for Biomedical Ethics, National University of Singapore](https://medicine.nus.edu.sg/cbme/) working with [A/Prof Brian D Earp](https://scholar.google.co.uk/citations?user=gbhpN4cAAAAJ&hl=en&oi=ao) & [Prof Julian Savulescu](https://scholar.google.co.uk/citations?user=PxdgzQUAAAAJ&hl=en&oi=ao), where I also serve as the lab manager for the [Experimental bioethics, AI, and Relational moral Psychology (EARP) Lab](https://earplab.org/).
+I am a postdoctoral research fellow at the [Centre for Biomedical Ethics](https://medicine.nus.edu.sg/cbme/), National University of Singapore, working with [A/Prof Brian D Earp](https://scholar.google.co.uk/citations?user=gbhpN4cAAAAJ&hl=en&oi=ao) and [Prof Julian Savulescu](https://scholar.google.co.uk/citations?user=PxdgzQUAAAAJ&hl=en&oi=ao). I am also the lab manager for the [Experimental bioethics, AI, and Relational moral Psychology (EARP) Lab](https://earplab.org/).
 
-My research lies at the intersection of psychology and philosophy, with a particular focus on the moral psychology of AI. Broadly, my work explores (1) how human moral psychology shapes people's judgments and evaluations of AI-generated content and AI systems, and (2) how AI influences, and ought to influence, human moral judgment and decision-making.
+My research lies at the intersection of psychology and experimental philosophy, with a particular focus on the moral psychology of AI. Broadly, my work explores (1) how human moral psychology shapes people's judgments and evaluations of AI-generated content and AI systems, and (2) how AI influences, and ought to influence, human moral judgment and decision-making.
 
 Previously, I was a fully funded PhD candidate at [Centre for Technomoral Futures](https://www.technomoralfutures.uk) and [School of PPLS](https://www.ed.ac.uk/ppls), University of Edinburgh, where I completed my doctoral research under the supervision of [Dr Adam Moore](https://scholar.google.com/citations?hl=en&user=g2nVnqAAAAAJ) and [Prof Shannon Vallor](http://scholar.google.com/citations?user=CPnXB40AAAAJ&hl=en). My thesis focused on AI moral enhancement, examining the psychological and ethical complexities of using artificial moral advisors to enhance human moral capacities and decision-making.
 
-I also received my MA Psychology and MScR Psychology from the University of Edinburgh. 
+I received my MA Psychology and MScR Psychology from the University of Edinburgh. 
 
-Feel free to reach out to me via [email](mailto:yuxinliu@nus.edu.sg)
+Feel free to reach out to me via [email](mailto:yuxinliu@nus.edu.sg).
 
 <!-- 
 I am a 4th year PhD researcher in moral psychology & AI ethics. I am affiliated with [School of PPLS](https://www.ed.ac.uk/ppls) at the University of Edinburgh, and with [Centre for Technomoral Futures](https://www.technomoralfutures.uk), an interdisciplinary research centre at [Edinburgh Futures Institute](https://efi.ed.ac.uk) focusing on unifying technical and moral knowledge to address ethical implications of AI/data-driven technologies. 
