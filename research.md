@@ -2,22 +2,29 @@
 layout: default
 ---
 
+### preprints / papers under review
+
+1. Ureyang, N., Mann, S. P., **Liu, Y.**, Hassirim, Z., Almonte, M., Chen, W., ... & Foong, P. S. (2026). Values in context: Dilemma-trained AI predicts patient preferences better than human proxies. [under review].
+
+2. Ureyang, N., Mann, S. P., **Liu, Y.**, Hassirim, Z., Almonte, M., Chen, W., ... & Foong, P. S. (2026). Large Language Model Few-Shot Prompting with Dilemma Training Outperforms Human Surrogates in Predicting Patient Preferences. Preprint available at [arXiv](https://arxiv.org/abs/2608.25771).
+
+3. †van Veenendaal, T., **†Liu, Y.**, Buyukbabani, M.B., Salloch, S., Jongsma, K., Braun, M., ... & Earp, B. D. (2026). Who–or what–should predict an incapacitated patient’s wishes? Public attitudes towards AI in substituted medical decision-making. [under review]. Preprint available at [researchgate](https://www.researchgate.net/publication/411053949).
+
+4. †Ryan, N., †Feroz, F., **Liu, Y.**, Earp, B. D., Savulescu, J. (2026) Public attitudes to Ozempic: Treatment, responsibility, public funding and moral libertarianism. [under review].
+
+
 ### peer-reviewed publications
 
-1. Ureyang, N., Mann, S. P., **Liu, Y.**, Hassirim, Z., Almonte, M., Chen, W., ... & Foong, P. S. (2026). Large Language Model Few-Shot Prompting with Dilemma Training Outperforms Human Surrogates in Predicting Patient Preferences. [under review]. Preprint available on [arXiv](https://arxiv.org/abs/2608.25771).
-
-2. †van Veenendaal, T., **†Liu, Y.**, Buyukbabani, M.B., Salloch, S., Jongsma, K., Braun, M., ... & Earp, B. D. (2026). Who–or what–should predict an incapacitated patient’s wishes? Public attitudes towards AI in substituted medical decision-making. [under review]. Preprint available on [researchgate](https://www.researchgate.net/publication/411053949).
-
-3. **Liu, Y.** and Moore, A. (2025). Intuitive judgements towards artificial intelligence verdicts of moral transgressions. *British Journal of Social Psychology*, *64*(3), e12908. [https://doi.org/10.1111/bjso.12908](https://doi.org/10.1111/bjso.12908) \
+1. **Liu, Y.** and Moore, A. (2025). Intuitive judgements towards artificial intelligence verdicts of moral transgressions. *British Journal of Social Psychology*, *64*(3), e12908. [https://doi.org/10.1111/bjso.12908](https://doi.org/10.1111/bjso.12908) \
    [[pdf]](/papers/Liu_Moore_2025_AI_belief_alignment.pdf) [[osf]](https://osf.io/7qjt3/)
 
-4. McIntosh, R. D., Moore, A. B., **Liu, Y.**, and Della Sala, S. (2022). Skill and self-knowledge: Empirical refutation of the dual-burden account of the Dunning–Kruger effect. *Royal Society Open Science*, *9*(12), 191727. [http://doi.org/10.1098/rsos.191727](http://doi.org/10.1098/rsos.191727) 
+2. McIntosh, R. D., Moore, A. B., **Liu, Y.**, and Della Sala, S. (2022). Skill and self-knowledge: Empirical refutation of the dual-burden account of the Dunning–Kruger effect. *Royal Society Open Science*, *9*(12), 191727. [http://doi.org/10.1098/rsos.191727](http://doi.org/10.1098/rsos.191727) 
    [[pdf]](/papers/McIntosh_et_al_2022_DK_self_knowledge.pdf) 
 
-5. **Liu, Y.**, Moore, A. Webb, J., and Vallor, S. (2022). Artificial moral advisors: A new perspective from moral psychology. *AIES ’22: Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society*, 436-445. [https://doi.org/10.1145/3514094.3534139](https://doi.org/10.1145/3514094.3534139) \
+3. **Liu, Y.**, Moore, A. Webb, J., and Vallor, S. (2022). Artificial moral advisors: A new perspective from moral psychology. *AIES ’22: Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society*, 436-445. [https://doi.org/10.1145/3514094.3534139](https://doi.org/10.1145/3514094.3534139) \
    [[pdf]](/papers/Liu_et_al_2022_AMA_commentary.pdf) [[osf]](https://osf.io/u8kt4/)
 
-6. **Liu, Y.** and Moore, A. (2022). A Bayesian multilevel analysis of belief alignment effect predicting human moral intuitions of artificial intelligence judgements. *Proceedings of the Annual Meeting of the Cognitive Science Society*, *44*, 2116–2125. [https://escholarship.org/uc/item/3v79704h](https://escholarship.org/uc/item/3v79704h) \
+4. **Liu, Y.** and Moore, A. (2022). A Bayesian multilevel analysis of belief alignment effect predicting human moral intuitions of artificial intelligence judgements. *Proceedings of the Annual Meeting of the Cognitive Science Society*, *44*, 2116–2125. [https://escholarship.org/uc/item/3v79704h](https://escholarship.org/uc/item/3v79704h) \
    [[pdf]](/papers/Liu_Moore_2022_AI_belief_alignment.pdf) [[osf]](https://osf.io/7qjt3/)
 
 ---
